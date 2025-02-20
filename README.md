@@ -1,4 +1,3 @@
 # Power-BI
 <IMG SRC = "https://www.meldium.com/wp-content/uploads/2019/11/power-BI.png">
-Microsoft Power BI is a business intelligence tool that helps users visualize and analyze data. It can be used to create reports, dashboards, and other visualizations. 
-In today’s world, “data is the new oil”.
+Microsoft Power BI is a business intelligence tool that helps users visualize and analyze data. It can be used to create reports, dashboards, and other visualizations.
