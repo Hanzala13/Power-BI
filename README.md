@@ -7,5 +7,5 @@ This repository contains Power BI dashboards, reports, and datasets designed to 
 
 Interactive dashboards with dynamic filtering
 Data transformations using Power Query & DAX
-Real-time data connectivity (SQL, Excel, APIs, etc.)
+
 
