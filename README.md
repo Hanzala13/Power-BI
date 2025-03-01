@@ -6,6 +6,5 @@ This repository contains Power BI dashboards, reports, and datasets designed to 
 📊 Features:
 
 Interactive dashboards with dynamic filtering
-Data transformations using Power Query & DAX
 
 
