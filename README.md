@@ -12,7 +12,7 @@ Power BI is a tool that helps you understand your data better. you can:
 Bring in data from different places like Excel files, SQL databases, CSVs, JSON files and even websites.
 Clean and fix your data easily without writing code.
 Create visuals like bar charts, line graphs, pie charts and dashboards to help you see patterns and trends.
-Analyze your data using filters and slicers, so you can focus on specific details like sales by region or product performance over time.
+
 
 
 
