@@ -5,9 +5,6 @@ Power BI is a Microsoft-powered business intelligence tool that helps transform 
 
 It’s widely used in industries for data storytelling, decision-making and analytics and integrates well with tools like Excel, databases, Cloud and even Python. Tools like Microsoft Power BI are used by over 3000 companies for business intelligence.
 
-## What is Power BI Used For?
-
-Power BI is a tool that helps you understand your data better. you can:
 
 
 
