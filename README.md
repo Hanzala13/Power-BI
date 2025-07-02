@@ -38,6 +38,9 @@ The first step is gathering and consolidating data from an array of primary and 
 2. Data Mart / Data Warehouse
 Through the utilization of extraction and transformation tools, also known as extract, transform, load (ETL), data is acquired from various sources and saved in databases designed specifically for business intelligence analysis. These databases, commonly known as data warehouses and data marts, serve as a centralized location for the gathered data.
 
+3.Data Exploration
+The third level of the pyramid offers essential resources for conducting a passive analysis in business intelligence. These resources include query and reporting systems, along with statistical methods. These techniques are referred to as passive because decision makers must first develop ideas or establish criteria for data extraction before utilizing analysis tools to uncover answers and confirm their initial theories. For example, a sales manager might observe a decrease in revenues in a particular geographic region for a specific demographic of customers. In response, she could utilize extraction and visualization tools to confirm her hypothesis and then use statistical testing to validate her findings based on the data.
+
 
 
 
