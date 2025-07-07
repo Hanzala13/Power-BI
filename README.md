@@ -65,6 +65,13 @@ Measurement for creating KPI (Key Performance Indicators) on the basis of histor
 Identify the benchmark and then set the benchmarks for different processes.
 Identify market trends and also to spot business problems that need to be identified and solved.
 
+## Tips for Using Power BI Effectively
+Learn DAX for Advanced Calculations: DAX is a formula language that can help you perform advanced calculations. If you want to create more complex analytics learning DAX is a good idea.
+Master Power Query: Power Query helps you to prepare your data. The more you learn about it the more efficient your workflow will be.
+Stay Organized: When you create more reports it's important to keep things organized by giving fields, calculations clear and descriptive names.
+Explore Templates: It has many templates for different industries. Use them to get started quickly and spark new ideas for your own reports.
+
+
 
 
 
