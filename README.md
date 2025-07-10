@@ -79,6 +79,14 @@ We can remove unnecessary rows, change column names, combine data from multiple 
 Power View helps us to create visuals and reports by simply dragging and dropping data fields. It support wide range of chart types like bar charts, pie charts, line charts, maps and more.
 It’s interactive which means you can click on parts of the chart to filter other parts of the report. It is mainly used to explore your data visually and discover trends. It is helpful for users who prefer to see patterns through visuals rather than numbers.
 
+3. Power BI Desktop
+Power BI Desktop is the main platform where most of the work happens. It combines all the features like Power Query (for cleaning data), Power Pivot (for modeling data) and Power View (for visualizing data) into one tool. This is where you build complete reports and dashboards.
+This interface is user-friendly and it allows you to design everything offline before publishing it online. It is like workshop were we prepare everything here before sharing it with our team or organization.
+
+5. Power BI Service
+After we create our reports in Power BI Desktop you can publish them to the Power BI Service which is also known as the Power BI Website. Here we can share your reports with others, collaborate in teams and access your data from any device using a browser.
+It’s a cloud-based platform that also lets us schedule data refreshes and receive automatic updates. We can also create dashboards here by pinning visuals from different reports into one view for easy monitoring.
+
 
 
 
