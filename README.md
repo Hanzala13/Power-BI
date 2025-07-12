@@ -91,10 +91,14 @@ It’s a cloud-based platform that also lets us schedule data refreshes and rece
 6. Power Map
 Power Map is used when your data includes geographical locations like countries, cities or coordinates. It creates 3D maps that let you view your data based on location. You can see patterns like sales by region, customer distribution or delivery routes.
 The maps are animated and you can even show changes over time. For example, how sales grew across different areas month by month.
+
 7. Power Q&A
 Power Q&A is like talking to your data using natural language. You don’t need to know any query language just type a question like “Show total sales for 2024” or “Top 5 selling products” and Power BI will understand and give you the answer instantly in the form of a chart or graph.
 It uses smart algorithms to understand your words and give meaningful answers. This feature makes data analysis more accessible to people who may not be experts.
+
 8. Power BI Mobile Apps
+Power BI has mobile apps for iPhone, Android and Windows devices. These apps allow you to access your reports and dashboards anywhere and anytime. You can view the latest data, check KPIs and stay updated on business performance while traveling or during meetings.
+The mobile interface is designed to be clean and responsive so you can scroll through your visuals easily even on a small screen.
 
 
 
