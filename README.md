@@ -108,7 +108,11 @@ A feature of Microsoft Office 365 called Power BI gives business users access to
 Microsoft Power BI provides such tools that will let you visualize key data points accurately from various sources in a single dashboard. For instance, you can have a dashboard that displays the different products in your store, allowing you to track sales, costs, and expenses in one location. This will help managers at the same time that they keep their employees updated on sales and expenses.
 
 
+2. Real-Time Performance
+You can understand the Real-Time performance of enterprises on a variety of levels using Microsoft Power BI. For instance, have a dashboard that lists all of the projects that are active as well as their due dates. On these projects, you may also keep a close watch on how each individual employee is doing. This is a fantastic way to tell your team of changes and deadlines, keep them informed of one other's duties for certain tasks, and even allow the staff to keep an eye on their own performance.
 
+3. Sales Analysis
+Another common use for business intelligence tools like Power BI is sales analysis. Multiple dashboards that display charts can be set up to monitor user activity throughout an online session. Additionally, what product categories do your clients purchase the most frequently, or which geographical areas generate the highest revenue for you? You can adjust your business practices based on this knowledge to better meet the needs of your clients and boost sales.
 
 
 
