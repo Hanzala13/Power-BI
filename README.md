@@ -114,6 +114,11 @@ You can understand the Real-Time performance of enterprises on a variety of leve
 3. Sales Analysis
 Another common use for business intelligence tools like Power BI is sales analysis. Multiple dashboards that display charts can be set up to monitor user activity throughout an online session. Additionally, what product categories do your clients purchase the most frequently, or which geographical areas generate the highest revenue for you? You can adjust your business practices based on this knowledge to better meet the needs of your clients and boost sales.
 
+4. Improving Marketing
+These dashboards can show all kinds of data to assist you to enhance your marketing campaign if you or the rest of your team are working on any kind of extensive marketing effort. The software can track parameters like the price at which each product is sold individually and present all of this data so that you may develop a more successful marketing plan for upcoming campaigns.
+
+5. Create Consistent Reporting Standards
+You may gather the data and produce reports using Power BI to give you consistent reporting. If the data is delivered in a graphical manner each time, it is less stressful for the managers, and takes less time to find insights from it, and the organization may find it helpful to predict information. Additionally, it enables you to carry out targeted marketing initiatives that are guaranteed to be effective.
 
 
 
