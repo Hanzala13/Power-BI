@@ -120,7 +120,11 @@ These dashboards can show all kinds of data to assist you to enhance your market
 5. Create Consistent Reporting Standards
 You may gather the data and produce reports using Power BI to give you consistent reporting. If the data is delivered in a graphical manner each time, it is less stressful for the managers, and takes less time to find insights from it, and the organization may find it helpful to predict information. Additionally, it enables you to carry out targeted marketing initiatives that are guaranteed to be effective.
 
+6. Controlling Costs
+The average cost of each campaign that has been running on your website can be displayed on a dashboard. This can assist you in determining which promotions will benefit your clients and your organization. It also assists you in deciding how much money to spend on anything in the future. You can also develop dashboards that show how much money is being spent on each specific campaign this will help to have proper control of the cost of each product which leads to control of the overall cost of the organization.
 
+7. Product Development
+Another typical use for business intelligence software like Power BI is product development. When it's time to pull one product off the market and replace it with a newer and more successful one, This dashboard shows how much money is being produced for each particular product that can help your organization.
 
 
 
