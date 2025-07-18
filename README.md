@@ -126,7 +126,8 @@ The average cost of each campaign that has been running on your website can be d
 7. Product Development
 Another typical use for business intelligence software like Power BI is product development. When it's time to pull one product off the market and replace it with a newer and more successful one, This dashboard shows how much money is being produced for each particular product that can help your organization.
 
-
+Practical Applications of Power BI
+Power BI is a Microsoft tool that allows you to use datasets from multiple sources and create reports and charts to address specific business needs. Using Power BI is about providing practical solutions for real-world problems, making it the perfect tool for organizations seeking quick and easy insights with minimal effort. Let's see by creating a simple Line chart in Power BI of the Financial sales analysis dataset. Let's see the different practical applications of Power BI:
 
 
 
