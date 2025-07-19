@@ -117,17 +117,6 @@ Another common use for business intelligence tools like Power BI is sales analys
 4. Improving Marketing
 These dashboards can show all kinds of data to assist you to enhance your marketing campaign if you or the rest of your team are working on any kind of extensive marketing effort. The software can track parameters like the price at which each product is sold individually and present all of this data so that you may develop a more successful marketing plan for upcoming campaigns.
 
-5. Create Consistent Reporting Standards
-You may gather the data and produce reports using Power BI to give you consistent reporting. If the data is delivered in a graphical manner each time, it is less stressful for the managers, and takes less time to find insights from it, and the organization may find it helpful to predict information. Additionally, it enables you to carry out targeted marketing initiatives that are guaranteed to be effective.
-
-6. Controlling Costs
-The average cost of each campaign that has been running on your website can be displayed on a dashboard. This can assist you in determining which promotions will benefit your clients and your organization. It also assists you in deciding how much money to spend on anything in the future. You can also develop dashboards that show how much money is being spent on each specific campaign this will help to have proper control of the cost of each product which leads to control of the overall cost of the organization.
-
-7. Product Development
-Another typical use for business intelligence software like Power BI is product development. When it's time to pull one product off the market and replace it with a newer and more successful one, This dashboard shows how much money is being produced for each particular product that can help your organization.
-
-Practical Applications of Power BI
-Power BI is a Microsoft tool that allows you to use datasets from multiple sources and create reports and charts to address specific business needs. Using Power BI is about providing practical solutions for real-world problems, making it the perfect tool for organizations seeking quick and easy insights with minimal effort. Let's see by creating a simple Line chart in Power BI of the Financial sales analysis dataset. Let's see the different practical applications of Power BI:
 
 
 
