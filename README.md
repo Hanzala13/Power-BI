@@ -111,11 +111,6 @@ Microsoft Power BI provides such tools that will let you visualize key data poin
 2. Real-Time Performance
 You can understand the Real-Time performance of enterprises on a variety of levels using Microsoft Power BI. For instance, have a dashboard that lists all of the projects that are active as well as their due dates. On these projects, you may also keep a close watch on how each individual employee is doing. This is a fantastic way to tell your team of changes and deadlines, keep them informed of one other's duties for certain tasks, and even allow the staff to keep an eye on their own performance.
 
-3. Sales Analysis
-Another common use for business intelligence tools like Power BI is sales analysis. Multiple dashboards that display charts can be set up to monitor user activity throughout an online session. Additionally, what product categories do your clients purchase the most frequently, or which geographical areas generate the highest revenue for you? You can adjust your business practices based on this knowledge to better meet the needs of your clients and boost sales.
-
-4. Improving Marketing
-These dashboards can show all kinds of data to assist you to enhance your marketing campaign if you or the rest of your team are working on any kind of extensive marketing effort. The software can track parameters like the price at which each product is sold individually and present all of this data so that you may develop a more successful marketing plan for upcoming campaigns.
 
 
 
