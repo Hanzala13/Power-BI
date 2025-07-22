@@ -104,12 +104,7 @@ The mobile interface is designed to be clean and responsive so you can scroll th
 
 A feature of Microsoft Office 365 called Power BI gives business users access to insights from their data. Users of the software can visualize information using a range of tools, such as graphs and diagrams. In other words, Power BI serves as a link between your data and the individual who will ultimately utilize it to make crucial decisions. Power BI is a tool that businesses frequently utilize for informational purposes. When various departments collaborate on a project, for instance, it may be necessary to transmit information across them in such a way that everyone can understand. So that everyone is on the exact page as they do their individual jobs.
 
-1. Visualize Details Easily
-Microsoft Power BI provides such tools that will let you visualize key data points accurately from various sources in a single dashboard. For instance, you can have a dashboard that displays the different products in your store, allowing you to track sales, costs, and expenses in one location. This will help managers at the same time that they keep their employees updated on sales and expenses.
 
-
-2. Real-Time Performance
-You can understand the Real-Time performance of enterprises on a variety of levels using Microsoft Power BI. For instance, have a dashboard that lists all of the projects that are active as well as their due dates. On these projects, you may also keep a close watch on how each individual employee is doing. This is a fantastic way to tell your team of changes and deadlines, keep them informed of one other's duties for certain tasks, and even allow the staff to keep an eye on their own performance.
 
 
 
