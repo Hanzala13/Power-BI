@@ -71,13 +71,6 @@ Master Power Query: Power Query helps you to prepare your data. The more you lea
 Stay Organized: When you create more reports it's important to keep things organized by giving fields, calculations clear and descriptive names.
 Explore Templates: It has many templates for different industries. Use them to get started quickly and spark new ideas for your own reports.
 
-## 1. Power Query
-Power Query is the first step in working with data in Power BI. It allows you to connect to different data sources like Excel files, databases, web pages or even cloud-based services. Once the data is imported Power Query helps you to clean, transform and shape it into a useful format.
-We can remove unnecessary rows, change column names, combine data from multiple tables and much more all without programming using Power BI. This process is called “data wrangling" and Power Query makes it easy and visual.
-
-2. Power View
-Power View helps us to create visuals and reports by simply dragging and dropping data fields. It support wide range of chart types like bar charts, pie charts, line charts, maps and more.
-It’s interactive which means you can click on parts of the chart to filter other parts of the report. It is mainly used to explore your data visually and discover trends. It is helpful for users who prefer to see patterns through visuals rather than numbers.
 
 
 
