@@ -59,12 +59,6 @@ BI (Business Intelligence) uses a set of processes, technologies, and tools (suc
 
 To sound short and clear – Business Intelligence provides accurate information in the right and ethical format to the decision-makers of the organization. Some Important features of Business Intelligence are:
 
-Fact-based decision making.
-360 degrees perspective on your business.
-Measurement for creating KPI (Key Performance Indicators) on the basis of historic data fed into the system.
-Identify the benchmark and then set the benchmarks for different processes.
-Identify market trends and also to spot business problems that need to be identified and solved.
-
 
 
 
