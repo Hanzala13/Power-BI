@@ -54,10 +54,6 @@ Firstly, the objectives are clearly identified and performance indicators are ch
 Next, mathematical models are created by utilizing the connections between control variables, parameters, and evaluation metrics.
 Finally, "what-if" scenarios are explored to understand the impact of changing control variables and parameters on performance.
 
-## Process Used in Business Intelligence
-BI (Business Intelligence) uses a set of processes, technologies, and tools (such as Informatica/IBM) to transform raw data into meaningful information and then transform information to provide knowledge. Then afterwards some beneficial insights can be extracted manually and by some software then the decision-makers can make an impact decision on the basis of insights.
-
-To sound short and clear – Business Intelligence provides accurate information in the right and ethical format to the decision-makers of the organization. Some Important features of Business Intelligence are:
 
 
 
