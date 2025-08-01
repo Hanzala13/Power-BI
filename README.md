@@ -50,9 +50,7 @@ As you ascend the pyramid, you'll encounter optimization models that empower you
 ## Role of Business Intelligence
 The characteristics of a business intelligence analysis can be summarized by a rational and methodical approach.
 
-Firstly, the objectives are clearly identified and performance indicators are chosen to evaluate different options.
-Next, mathematical models are created by utilizing the connections between control variables, parameters, and evaluation metrics.
-Finally, "what-if" scenarios are explored to understand the impact of changing control variables and parameters on performance.
+
 
 
 
