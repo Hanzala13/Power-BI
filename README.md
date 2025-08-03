@@ -44,11 +44,7 @@ The third level of the pyramid offers essential resources for conducting a passi
 4.Data Mining
 The fourth level, known as active business intelligence methodologies, focuses on extracting valuable information and knowledge from data. We will delve into various techniques such as mathematical models, pattern recognition, machine learning, and data mining. Unlike the tools discussed in the previous level, active models do not rely on decision makers to come up with hypothesis but instead aim to enhance their understanding.
 
-5.Optimization
-As you ascend the pyramid, you'll encounter optimization models that empower you to choose the most optimal course of action among various alternatives, which can often be quite extensive or even endless. These models have also been effectively incorporated in marketing and logistics.
 
-## Role of Business Intelligence
-The characteristics of a business intelligence analysis can be summarized by a rational and methodical approach.
 
 
 
