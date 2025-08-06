@@ -32,11 +32,6 @@ Business intelligence refers to a collection of mathematical models and analysis
 ### Optimization
 ### Decisions
 
-1. Data Source
-The first step is gathering and consolidating data from an array of primary and secondary sources. These sources vary in origin and format, consisting mainly of operational system data but also potentially containing unstructured documents like emails and data from external providers.
-
-2. Data Mart / Data Warehouse
-Through the utilization of extraction and transformation tools, also known as extract, transform, load (ETL), data is acquired from various sources and saved in databases designed specifically for business intelligence analysis. These databases, commonly known as data warehouses and data marts, serve as a centralized location for the gathered data.
 
 
 
