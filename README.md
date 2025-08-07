@@ -25,13 +25,6 @@ Business intelligence refers to a collection of mathematical models and analysis
 
 ## Main Components of Business Intelligence System:
 
-### Data Source
-### Data Mart / Data Warehouse
-### Data Exploration
-### Data Mining
-### Optimization
-### Decisions
-
 
 
 
