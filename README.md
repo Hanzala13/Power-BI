@@ -18,12 +18,7 @@ Set up automatic updates so your reports always show the latest information with
 
 ## What is Business Intelligence?
 
-Business Intelligence is the talk of a new changing and growing world that can be defined as a set of concepts and methodologies to improve decision-making in business through the use of facts and fact-based systems. The Goal of Business Intelligence is to improve decision-making in business ideas and analysis. Business Intelligence is not just a concept; it’s a group of concepts and methodologies. Business Intelligence uses analytics and gut feelings for making decisions.
 
-Business Intelligence Overview
-Business intelligence refers to a collection of mathematical models and analysis methods that utilize data to produce valuable information and insight for making important decisions.
-
-## Main Components of Business Intelligence System:
 
 
 
