@@ -16,7 +16,7 @@ Share your dashboards with your team or clients so everyone stays informed and c
 
 Set up automatic updates so your reports always show the latest information without you having to do anything.
 
-## What is Business Intelligence?
+
 
 
 
