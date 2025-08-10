@@ -14,7 +14,7 @@ Analyze your data using filters and slicers, so you can focus on specific detail
 
 Share your dashboards with your team or clients so everyone stays informed and can explore the data on their own.
 
-Set up automatic updates so your reports always show the latest information without you having to do anything.
+
 
 
 
