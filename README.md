@@ -12,7 +12,6 @@ Create visuals like bar charts, line graphs, pie charts and dashboards to help y
 
 Analyze your data using filters and slicers, so you can focus on specific details like sales by region or product performance over time.
 
-Share your dashboards with your team or clients so everyone stays informed and can explore the data on their own.
 
 
 
