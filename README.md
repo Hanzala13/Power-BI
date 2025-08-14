@@ -8,7 +8,7 @@ Bring in data from different places like Excel files, SQL databases, CSVs, JSON 
 
 Clean and fix your data easily without writing code.
 
-Create visuals like bar charts, line graphs, pie charts and dashboards to help you see patterns and trends.
+
 
 
 
