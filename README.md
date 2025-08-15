@@ -6,7 +6,6 @@ Power BI is a tool that helps you understand your data better. you can:
 
 Bring in data from different places like Excel files, SQL databases, CSVs, JSON files and even websites.
 
-Clean and fix your data easily without writing code.
 
 
 
