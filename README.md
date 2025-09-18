@@ -35,7 +35,3 @@ Power BI is a Microsoft-powered business intelligence tool that helps transform 
 
 
 
-
-
-
-
